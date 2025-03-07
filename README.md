@@ -46,6 +46,11 @@ There are some events that you should go to because they are cool from our point
 
 - Comic Ausstellung "Wie geht es dir?" -- Interkulturelles Zentrum Heidelberg -- Bergheimer Straße 147, 69115 Heidelberg -- 2025-03-12 - 2025-04-30
 
+Can someone please go here and report back?
+-------------------------------------------
+
+- DAI: Prof. Dr. Armin Nassehi, Kritik der großen Geste -- https://dai-heidelberg.de/de/veranstaltungen/armin-nassehi-66025/ -- 2025-03-07 20:00 -- 0
+
 We already talked about going here some time, and you can make it happen
 ------------------------------------------------------------------------
 
