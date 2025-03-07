@@ -34,6 +34,11 @@ Contact us if you want to participate
 
   - Kaffee Agatha im Mafinex, Julius-Hatry-Straße 1, 68163 Mannheim
 
+Regular Meetings that you can participate in
+--------------------------------------------
+
+- Stadtbücherei Heidelberg -- every Saturday at 11:00 +1
+
 The Python community is going here
 ----------------------------------
 
