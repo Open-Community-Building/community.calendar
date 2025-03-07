@@ -41,6 +41,11 @@ The Python community is going here
 
 - PythonCamp Rügen 2024 -- Project Bay Workation in Lietzow auf Rügen -- Boddenstraße 64, 18528 Lietzow -- 2025-09-20 - 2025-09-21 -- +2
 
+There are some events that you should go to because they are cool from our point of view - Maybe invite some others to go there with you?
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+- Comic Ausstellung "Wie geht es dir?" -- Interkulturelles Zentrum Heidelberg -- Bergheimer Straße 147, 69115 Heidelberg -- 2025-03-12 - 2025-04-30
+
 We already talked about going here some time, and you can make it happen
 ------------------------------------------------------------------------
 
