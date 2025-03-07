@@ -25,7 +25,7 @@ Please feel free to join us here soon
 
   - https://www.meetup.com/de-DE/ki-connect-monnem/events/306095687/?eventOrigin=group_upcoming_events
  
-  - Tuesday, March 18, 2025, 6:00 PM to 11:00 PM CET
+  - Tuesday, March 18, 2025, 6:00 PM to 11:00 PM CET -- +1
 
 Contact us if you want to participate
 -------------------------------------
