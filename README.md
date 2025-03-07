@@ -1,4 +1,4 @@
-community.calendar
+icommunity.calendar
 ==================
 
 Lunch
@@ -39,9 +39,9 @@ Contact us if you want to participate
 The Python community is going here
 ----------------------------------
 
-- PyCon DE & PyData 2025 - Darmstadtium conference center -- Schlossgraben 1, 64283 Darmstadt -- 2025-04-23 - 2025-04-25
+- PyCon DE & PyData 2025 - Darmstadtium conference center -- Schlossgraben 1, 64283 Darmstadt -- 2025-04-23 - 2025-04-25 -- +1
 
-- PythonCamp Rügen 2024 -- Project Bay Workation in Lietzow auf Rügen -- Boddenstraße 64, 18528 Lietzow -- 2025-09-20 - 2025-09-21 
+- PythonCamp Rügen 2024 -- Project Bay Workation in Lietzow auf Rügen -- Boddenstraße 64, 18528 Lietzow -- 2025-09-20 - 2025-09-21 -- +2
 
 We already talked about going here some time, and you can make it happen
 ------------------------------------------------------------------------
