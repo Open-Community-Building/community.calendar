@@ -41,6 +41,11 @@ The Python community is going here
 
 - PythonCamp Rügen 2024 -- Project Bay Workation in Lietzow auf Rügen -- Boddenstraße 64, 18528 Lietzow -- 2025-09-20 - 2025-09-21 -- +2
 
+We are covering this event and produce results - who wants to join in?
+----------------------------------------------------------------------
+
+- Heidelberger Schlossgespräche -- Königssaal des Heidelberger Schlosses -- https://heidelberger-schlossgespraeche.de/ -- 2025-03-26 19:00 +1
+
 There are some events that you should go to because they are cool from our point of view - Maybe invite some others to go there with you?
 -----------------------------------------------------------------------------------------------------------------------------------------
 
