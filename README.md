@@ -1,7 +1,13 @@
-community.calendar
+= community.calendar =
 
-A list of upcoming events without much ado. 
-You know how to find out more from the context.
+To be planned:
 
-2024-06-19 16:00 Kurfürstenanlage 3
+- Confiserie Café Reichspost Gerhard Koch e.K. - Bahnhofstraße 38, 69412 Eberbach
+
+- Privat-Brauerei Schmucker GmbH - Hauptstraße 89, 64756 Mossautal
+
+- Museum Wagenschwend - Hauptstraße 35, 74838 Limbach
+
+- Auberge A l'Agneau - 11 Rue Principale, 67480 Roppenheim, France
+
 
