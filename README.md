@@ -1,6 +1,23 @@
 community.calendar
 ==================
 
+Lunch
+-----
+
+- Sometimes it is nice to know when and where you can join somebody for lunch, coffee or dinner, so here goes:
+
+    - Tati -- https://www.restaurant-tati.de/ -- Bergheimer Str. 147 - 69115 Heidelberg
+ 
+      - 2025-03-07 12:15 -- +1
+
+      - 2025-03-10 12:15 -- 0
+
+      - 2025-03-11 12:15 -- -1
+
+      - 2025-03-12 12:15 -- 0
+
+      - 2025-03-13 12:15 -- 0
+
 Please feel free to join us here soon
 -------------------------------------
 
@@ -9,6 +26,15 @@ Please feel free to join us here soon
   - https://www.meetup.com/de-DE/ki-connect-monnem/events/306095687/?eventOrigin=group_upcoming_events
  
   - Tuesday, March 18, 2025, 6:00 PM to 11:00 PM CET
+
+Contact us if you want to participate
+-------------------------------------
+
+- Kennenlernen ... & KI-unterstütztes Staffing
+
+  - 2025-03-12 10:00 - 11:30 
+
+  - Kaffee Agatha im Mafinex, Julius-Hatry-Straße 1, 68163 Mannheim
 
 The Python community is going here
 ----------------------------------
