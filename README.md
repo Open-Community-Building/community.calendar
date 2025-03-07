@@ -19,6 +19,8 @@ Lunch
 Please feel free to join us here soon
 -------------------------------------
 
+- RAG LLM Hackathon (Python team) -- https://www.meetup.com/heidelbergpython/events/306549234/ -- 2025--03-15 10:00 +10
+
 - Probieren ist nicht Evaluieren: Bauchgefühl vs. belastbare KI-Bewertungsmethoden
 
   - https://www.meetup.com/de-DE/ki-connect-monnem/events/306095687/?eventOrigin=group_upcoming_events
@@ -38,6 +40,8 @@ Regular Meetings that you can participate in
 --------------------------------------------
 
 - Stadtbücherei Heidelberg -- every Saturday at 11:00 +1
+
+- Python Meetup Heidelberg -- every Tuesday at 18:00 +5
 
 The Python community is going here
 ----------------------------------
