@@ -26,11 +26,7 @@ Please feel free to join us here soon
 Contact us if you want to participate
 -------------------------------------
 
-- Kennenlernen ... & KI-unterstütztes Staffing
-
-  - 2025-03-12 10:00 - 11:30 
-
-  - Kaffee Agatha im Mafinex, Julius-Hatry-Straße 1, 68163 Mannheim
+- TBD
 
 Regular Meetings that you can participate in
 --------------------------------------------
@@ -59,7 +55,7 @@ There are some events that you should go to because they are cool from our point
 Can someone please go here and report back?
 -------------------------------------------
 
-- DAI: Prof. Dr. Armin Nassehi, Kritik der großen Geste -- https://dai-heidelberg.de/de/veranstaltungen/armin-nassehi-66025/ -- 2025-03-07 20:00 -- 0
+- TBD
 
 We already talked about going here some time, and you can make it happen
 ------------------------------------------------------------------------
