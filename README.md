@@ -1,4 +1,4 @@
-icommunity.calendar
+community.calendar
 ==================
 
 Lunch
@@ -8,13 +8,9 @@ Lunch
 
     - Tati -- https://www.restaurant-tati.de/ -- Bergheimer Str. 147 - 69115 Heidelberg
  
-      - 2025-03-10 12:15 -- 0
+      - 2025-03-13 12:00 -- +1
 
-      - 2025-03-11 12:15 -- -1
-
-      - 2025-03-12 12:15 -- 0
-
-      - 2025-03-13 12:15 -- 0
+      - 2025-03-14 12:00 -- +1
 
 Please feel free to join us here soon
 -------------------------------------
