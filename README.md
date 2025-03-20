@@ -13,13 +13,7 @@ Lunch
 Please feel free to join us here soon
 -------------------------------------
 
-- RAG LLM Hackathon (Python team) -- https://www.meetup.com/heidelbergpython/events/306549234/ -- 2025--03-15 10:00 +10
-
-- Probieren ist nicht Evaluieren: Bauchgefühl vs. belastbare KI-Bewertungsmethoden
-
-  - https://www.meetup.com/de-DE/ki-connect-monnem/events/306095687/?eventOrigin=group_upcoming_events
- 
-  - Tuesday, March 18, 2025, 6:00 PM to 11:00 PM CET -- +1
+-- TBD
 
 Contact us if you want to participate
 -------------------------------------
@@ -66,3 +60,17 @@ We already talked about going here some time, and you can make it happen
 
 - Auberge A l'Agneau -- 11 Rue Principale, 67480 Roppenheim, France -- TBA
 
+Story Porting of Past events that we promoted here
+--------------------------------------------------
+
+- RAG LLM Hackathon (Python team) -- https://www.meetup.com/heidelbergpython/events/306549234/ -- 2025--03-15 10:00 +10
+
+  - Story Porting: https://github.com/Open-Community-Building/community.hooks/blob/main/rag_llm_hackathon_2025_03_15.md
+
+- Probieren ist nicht Evaluieren: Bauchgefühl vs. belastbare KI-Bewertungsmethoden
+
+  - https://www.meetup.com/de-DE/ki-connect-monnem/events/306095687/?eventOrigin=group_upcoming_events
+ 
+  - Tuesday, March 18, 2025, 6:00 PM to 11:00 PM CET -- +3
+
+  - Story Porting: https://github.com/Open-Community-Building/community.hooks/blob/main/ki-connect-monnem_2025_03_18.md
