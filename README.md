@@ -14,7 +14,7 @@ Please feel free to join us here soon
 -------------------------------------
 
 - Klima Puzzle Workshop & Puzzle der Kreislaufwirtschaft -- 2025-03-26 15:00 - 18:00
-  - We can plan this here: https://pads.ccc.de/xOfJdokYGJ
+  - We can plan this here: https://github.com/Open-Community-Building/community.hooks/blob/main/klima_puzzle_workshop_2025_03_21.md
   - https://www.klimabuendnis-karlsruhe.de/mc-events/klima-puzzle-puzzle-der-kreislaufwirtschaft-eine-veranstaltung-zwei-kooperative-spielerische-und-kreative-workshops-zur-wahl/?doing_wp_cron=1742551132.1319940090179443359375
   - Mittwoch, den 26. März 2025
   - 15:00-18:00 Uhr
